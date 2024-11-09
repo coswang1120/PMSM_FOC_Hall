@@ -1,0 +1,22 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Cortex Debug",
+      "type": "cortex-debug",
+      "request": "launch",
+      "servertype": "openocd",
+      "cwd": "${workspaceFolder}",
+      "executable": "${workspaceFolder}/Output/STM32_BLDC_Hall.elf",
+      "device": "STM32F103C8",
+      "configFiles": [
+        "interface/stlink.cfg",
+        "target/stm32f1x.cfg"
+      ],
+      "svdFile": "D:/Keil_v5/ARM/PACK/Keil/STM32F1xx_DFP/2.3.0/SVD/STM32F103xx.svd",
+      "serverpath": "D:/SW/openocd-20240916/bin/openocd.exe",
+      "gdbPath": "C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/arm-none-eabi-gdb.exe",
+      "runToEntryPoint": "main"
+    }
+  ]
+}

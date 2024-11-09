@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "D:/Keil_v5/UV4/UV4.exe",
+            "args": [
+                "-b",
+                "${workspaceFolder}/STM32_BLDC_Hall.uvprojx"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        }
+    ]
+} 

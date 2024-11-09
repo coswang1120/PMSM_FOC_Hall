@@ -1,0 +1,4 @@
+D:/prog/STM32/STM32/stm32/STM32prog/CLion_Vscode_PMSM_FOC_Hall/cmake-build-debug-mingw/CMakeFiles/FWlib.dir
+D:/prog/STM32/STM32/stm32/STM32prog/CLion_Vscode_PMSM_FOC_Hall/cmake-build-debug-mingw/CMakeFiles/STM32_BLDC_Hall.elf.dir
+D:/prog/STM32/STM32/stm32/STM32prog/CLion_Vscode_PMSM_FOC_Hall/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+D:/prog/STM32/STM32/stm32/STM32prog/CLion_Vscode_PMSM_FOC_Hall/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir

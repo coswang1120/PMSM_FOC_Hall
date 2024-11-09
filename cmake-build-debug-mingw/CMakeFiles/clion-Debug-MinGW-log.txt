@@ -1,0 +1,5 @@
+C:\Users\user090201\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/user090201/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe "-DCMAKE_C_COMPILER=C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/arm-none-eabi-gcc.exe" "-DCMAKE_CXX_COMPILER=C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/arm-none-eabi-g++.exe" -G Ninja -S D:\prog\STM32\STM32\stm32\STM32prog\CLion_Vscode_PMSM_FOC_Hall -B D:\prog\STM32\STM32\stm32\STM32prog\CLion_Vscode_PMSM_FOC_Hall\cmake-build-debug-mingw
+-- Minimal optimization, debug info included
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/prog/STM32/STM32/stm32/STM32prog/CLion_Vscode_PMSM_FOC_Hall/cmake-build-debug-mingw
